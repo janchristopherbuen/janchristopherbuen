@@ -8,13 +8,16 @@ Technical SEO Specialist focused on crawlability, indexing diagnostics, and Core
 
 ### SEO Blog Project
 
-SEO-optimized blog demonstrating technical SEO implementation including robots.txt, XML sitemap, canonical tags, Open Graph metadata, and structured data.
+SEO-optimized blog demonstrating technical SEO implementation including metadata optimization, robots.txt configuration, XML sitemap, canonical tags, structured data, and responsive design.
 
 Live Site
 https://janchristopherbuen.github.io/seo-blog-project/
 
 Repository
 https://github.com/janchristopherbuen/seo-blog-project
+
+SEO Audit Report
+https://github.com/janchristopherbuen/seo-blog-project/blob/main/seo-audit-report.md
 
 ---
 
@@ -41,4 +44,20 @@ https://github.com/janchristopherbuen/technical-seo-portfolio/blob/main/project-
 Technical SEO audit covering crawl errors, Core Web Vitals insights, and technical performance issues.
 
 Report
-https://github.com/janchristopherbuen/technical-seo-portfolio/
+https://github.com/janchristopherbuen/technical-seo-portfolio/blob/main/project-technical-audit/audit-report.md
+
+---
+
+## Tools
+
+Screaming Frog
+Google Search Console
+Lighthouse
+PageSpeed Insights
+
+---
+
+## Contact
+
+Email
+[buenjanchristopher@gmail.com](mailto:buenjanchristopher@gmail.com)
