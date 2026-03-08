@@ -6,20 +6,27 @@ Entry-Level Technical SEO Specialist with hands-on experience implementing and a
 
 ## Certifications
 
-**Technical SEO and AI Search Essentials** — Semrush Academy
-Certificate ID: a730b13fe9
-Valid until: March 6, 2027
+**Technical SEO and AI Search Essentials — Semrush Academy**
+Valid until March 6, 2027
+[View Certificate](https://static.semrush.com/academy/certificates/a730b13fe9/jan-christopher-buen_25.pdf)
 
+---
 
-**SEO Certification** — HubSpot Academy
-Valid: March 6, 2026 – April 5, 2027
+**SEO Certification — HubSpot Academy**
+Valid March 6, 2026 – April 5, 2027
+[View Certificate](https://app-na2.hubspot.com/academy/achievements/mwqcd44w/en/1/jan-christopher-buen/seo)
 
-**Ahrefs Marketing Platform Certification** — Ahrefs
-Issued: March 6, 2026
-Valid until: March 6, 2027
+---
 
-**Responsive Web Design Certification** — freeCodeCamp
+**Ahrefs Marketing Platform Certification — Ahrefs**
+Valid until March 6, 2027
+[View Certificate](https://ahrefs.com/academy/certificate/7698a4e0522f43c29026c61e921b49eb)
+
+---
+
+**Responsive Web Design Certification — freeCodeCamp**
 Approx. 300 hours of coursework
+[View Certificate](https://www.freecodecamp.org/certification/janchristopherbuen/responsive-web-design-v9)
 
 ---
 
@@ -30,13 +37,13 @@ Approx. 300 hours of coursework
 SEO practice project demonstrating implementation of technical SEO elements including metadata optimization, robots.txt configuration, XML sitemap, canonical tags, structured data, Lighthouse auditing, and responsive design.
 
 Live Site
-https://janchristopherbuen.github.io/seo-blog-project/
+[View Website](https://janchristopherbuen.github.io/seo-blog-project/)
 
 Repository
-https://github.com/janchristopherbuen/seo-blog-project
+[View Repository](https://github.com/janchristopherbuen/seo-blog-project)
 
 SEO Audit Report
-https://github.com/janchristopherbuen/seo-blog-project/blob/main/seo-audit-report.md
+[View Audit Report](https://github.com/janchristopherbuen/seo-blog-project/blob/main/seo-audit-report.md)
 
 ---
 
@@ -44,8 +51,7 @@ https://github.com/janchristopherbuen/seo-blog-project/blob/main/seo-audit-repor
 
 Technical SEO audit analyzing crawlability, robots directives, and indexing diagnostics.
 
-Report
-https://github.com/janchristopherbuen/technical-seo-portfolio/blob/main/project-indexability-audit/indexability-report.md
+[View Report](https://github.com/janchristopherbuen/technical-seo-portfolio/blob/main/project-indexability-audit/indexability-report.md)
 
 ---
 
@@ -53,8 +59,7 @@ https://github.com/janchristopherbuen/technical-seo-portfolio/blob/main/project-
 
 Audit evaluating internal linking structure, crawl depth, and URL hierarchy.
 
-Report
-https://github.com/janchristopherbuen/technical-seo-portfolio/blob/main/project-site-architecture-audit/site-architecture-report.md
+[View Report](https://github.com/janchristopherbuen/technical-seo-portfolio/blob/main/project-site-architecture-audit/site-architecture-report.md)
 
 ---
 
@@ -62,8 +67,7 @@ https://github.com/janchristopherbuen/technical-seo-portfolio/blob/main/project-
 
 Technical audit evaluating metadata implementation, canonical tags, crawl directives, and technical SEO signals.
 
-Report
-https://github.com/janchristopherbuen/technical-seo-portfolio/blob/main/project-technical-audit/audit-report.md
+[View Report](https://github.com/janchristopherbuen/technical-seo-portfolio/blob/main/project-technical-audit/audit-report.md)
 
 ---
 
@@ -71,17 +75,19 @@ https://github.com/janchristopherbuen/technical-seo-portfolio/blob/main/project-
 
 Screaming Frog
 Google Search Console
+Semrush
+Ahrefs
 Lighthouse
 PageSpeed Insights
 
-Semrush Tools
-Site Audit
-Keyword Overview
-Keyword Magic Tool
-Position Tracking
-Backlink Analytics
+---
 
-Ahrefs
-Site Explorer
-Keyword Explorer
-Backlink Checker
+## Skills
+
+Technical SEO
+Website Audits
+On-Page SEO Optimization
+Indexability & Crawl Diagnostics
+Internal Linking Architecture
+Structured Data Implementation
+Core Web Vitals Analysis
