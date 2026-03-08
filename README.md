@@ -1,23 +1,44 @@
-## Technical SEO Audit Reports
+# Jan Christopher Buen
 
-### Indexability Audit
-Audit covering crawlability, robots directives, and indexing diagnostics.
+Technical SEO Specialist focused on crawlability, indexing diagnostics, and Core Web Vitals optimization.
 
-Report:
+---
+
+## Portfolio Projects
+
+### SEO Blog Project
+
+SEO-optimized blog demonstrating technical SEO implementation including robots.txt, XML sitemap, canonical tags, Open Graph metadata, and structured data.
+
+Live Site
+https://janchristopherbuen.github.io/seo-blog-project/
+
+Repository
+https://github.com/janchristopherbuen/seo-blog-project
+
+---
+
+### Technical SEO Audit – Indexability
+
+Technical audit analyzing crawlability, robots directives, and indexing diagnostics.
+
+Report
 https://github.com/janchristopherbuen/technical-seo-portfolio/blob/main/project-indexability-audit/indexability-report.md
 
 ---
 
-### Site Architecture Audit
-Analysis of internal linking structure, crawl depth, and URL hierarchy.
+### Technical SEO Audit – Site Architecture
 
-Report:
+Audit evaluating internal linking structure, crawl depth, and URL hierarchy.
+
+Report
 https://github.com/janchristopherbuen/technical-seo-portfolio/blob/main/project-site-architecture-audit/site-architecture-report.md
 
 ---
 
-### Technical SEO Audit
-Full technical audit including crawl issues, Core Web Vitals, and page performance.
+### Technical SEO Audit – Full Technical Analysis
 
-Report:
-https://github.com/janchristopherbuen/technical-seo-portfolio/blob/main/project-technical-audit/audit-report.md
+Technical SEO audit covering crawl errors, Core Web Vitals insights, and technical performance issues.
+
+Report
+https://github.com/janchristopherbuen/technical-seo-portfolio/
