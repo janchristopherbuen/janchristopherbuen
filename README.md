@@ -11,12 +11,12 @@ Certificate ID: a730b13fe9
 Valid until: March 6, 2027
 
 
+**SEO Certification** — HubSpot Academy
+Valid: March 6, 2026 – April 5, 2027
+
 **Ahrefs Marketing Platform Certification** — Ahrefs
 Issued: March 6, 2026
 Valid until: March 6, 2027
-
-**SEO Certification** — HubSpot Academy
-Valid: March 6, 2026 – April 5, 2027
 
 **Responsive Web Design Certification** — freeCodeCamp
 Approx. 300 hours of coursework
@@ -73,5 +73,15 @@ Screaming Frog
 Google Search Console
 Lighthouse
 PageSpeed Insights
+
+Semrush Tools
+Site Audit
+Keyword Overview
+Keyword Magic Tool
+Position Tracking
+Backlink Analytics
+
 Ahrefs
-Semrush
+Site Explorer
+Keyword Explorer
+Backlink Checker
