@@ -12,6 +12,12 @@ Valid until March 6, 2027
 
 ---
 
+**SEO Toolkit Crash Course — Semrush Academy**
+Valid until March 7, 2027
+[View Certificate](https://static.semrush.com/academy/certificates/01cfb57b77/jan-christopher-buen_25.pdf)
+
+---
+
 **SEO Certification — HubSpot Academy**
 Valid March 6, 2026 – April 5, 2027
 [View Certificate](https://app-na2.hubspot.com/academy/achievements/mwqcd44w/en/1/jan-christopher-buen/seo)
