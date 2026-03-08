@@ -1,16 +1,63 @@
-## Hi there 👋
+# Jan Christopher Buen
 
-<!--
-**janchristopherbuen/janchristopherbuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical SEO Specialist focused on website audits, indexing diagnostics, and Core Web Vitals optimization.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Technical SEO
+- Website Audits
+- Core Web Vitals Optimization
+- On-Page SEO
+- SEO Site Architecture
+- Crawl Analysis
+
+---
+
+## Tools
+
+- Screaming Frog
+- Google Search Console
+- Lighthouse
+- PageSpeed Insights
+
+---
+
+## Portfolio Projects
+
+### Technical SEO Portfolio
+Technical SEO audit demonstrating:
+
+- crawl analysis
+- indexing diagnostics
+- site architecture evaluation
+- Core Web Vitals optimization
+
+Repository:
+https://github.com/janchristopherbuen/technical-seo-portfolio
+
+---
+
+### SEO Blog Project
+
+SEO-optimized blog demonstrating:
+
+- robots.txt
+- XML sitemap
+- canonical tags
+- Open Graph metadata
+- structured data
+
+Live Demo:
+https://janchristopherbuen.github.io/seo-blog-project/
+
+Repository:
+https://github.com/janchristopherbuen/seo-blog-project
+
+---
+
+## Contact
+
+Email: buenjanchristopher@gmail.com
+GitHub: https://github.com/janchristopherbuen
